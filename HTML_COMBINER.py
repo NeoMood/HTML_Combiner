@@ -6,7 +6,6 @@ urls = [
     'https://www.lipsum.com/',
     'https://www.lipsum.com/',
     'https://www.lipsum.com/',
-    'https://www.lipsum.com/',
 ]
 
 with open('output.html', 'a', encoding='utf-8') as file:
